@@ -43,7 +43,7 @@
             </div>
     </div>
 </section>
-<section id="contact-page">
+<section id="contact-page" class="transparent-bg">
     {{--<div class="container">--}}
         {{--<div class="center">--}}
             {{--<h2>Send Us Your Message</h2>--}}
