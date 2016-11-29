@@ -107,7 +107,7 @@
                         <div class="feature-wrap">
                             <i class="fa fa-map-marker "></i>
                             <h4>GIS</h4>
-                            <h6> Geograpgical Information systems <a href="{{url('#')}}"><b>Read More ...</b></a>
+                            <h6> Geograpgical Information systems <a href="{{url('#')}}"><br><b>Read More ...</b></a>
                             </h6>
                         </div>
                     </div>
@@ -132,7 +132,8 @@
                         <div class="feature-wrap">
                             <i class="fa fa-briefcase"></i>
                             <h4>Business process engineering</h4>
-                            <h6><a href="{{url('business')}}"><br><b>Read More ...</b></a>
+                            <h6> <b>The company</b> provides and actively pursues innovative technologies and new business opportunities that enable
+                                 businesses<a href="{{url('business')}}">&nbsp;&nbsp;<b>Read More ...</b></a>
                             </h6>
                         </div>
                     </div>

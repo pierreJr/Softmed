@@ -1,7 +1,7 @@
 @extends('website.master')
 
 @section('contents')
-<section id="contact-info">
+<section id="contact-info" class="transparent-bg">
     <div class="gmap-area">
             <div class="row">
                 <div class="col-sm-5 text-center">

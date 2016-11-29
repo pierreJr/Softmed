@@ -2,7 +2,7 @@
 
 @section('contents')
 
-<section id="about-us">
+<section id="about-us" class="transparent-bg">
     <div class="container">
         <div class="center wow fadeInDown">
             <h2>About Softmed</h2>

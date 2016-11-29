@@ -1,6 +1,3 @@
 <div class="get-started center wow fadeInDown">
-    <h2>Ready to get started ?</h2>
-    <div class="request">
-        <h4><a href="{{url('contacts')}}">Contact Us</a></h4>
-    </div>
+    <h3><a href="{{url('contacts')}}">Ready to get started ?</a></h3>
 </div>
